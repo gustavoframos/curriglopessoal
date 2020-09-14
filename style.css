@@ -1,0 +1,27 @@
+
+h1 {
+   color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+h2 {
+    color:black;
+    background-color:lightblue;
+}
+h3 {
+   color:
+   background-color:
+
+}
+
+p {
+  font-family: times new roma;
+  font-size: 16px;
+}
+#avatar{
+        width: 200px;
+}
+#info {
+   float: left;
+}
